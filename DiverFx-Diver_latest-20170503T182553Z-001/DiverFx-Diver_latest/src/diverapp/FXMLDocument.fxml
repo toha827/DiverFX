@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" fx:id="apMain" minHeight="720.0" minWidth="1080.0" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="diverapp.FXMLDocumentController">
+    <children>
+      <ImageView fx:id="ivDiver" fitHeight="34.0" fitWidth="82.0" layoutX="296.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true" />
+    </children>
+</AnchorPane>
